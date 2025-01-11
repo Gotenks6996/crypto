@@ -1,0 +1,12 @@
+crypto-tracker
+├── server.js
+├── config
+│   └── db.js
+├── models
+│   └── Crypto.js
+├── routes
+│   └── cryptoRoutes.js
+├── jobs
+│   └── cryptoJob.js
+├── .env
+└── package.json
